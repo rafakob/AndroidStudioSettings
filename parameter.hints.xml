@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Kotlin">
+        <added pattern="org.jetbrains.anko.intentFor(params)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
