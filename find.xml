@@ -1,12 +1,11 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.properties</mask>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
       <mask>*.xml</mask>
@@ -27,6 +26,16 @@
       <mask>*Prese*.kt</mask>
       <mask>*Presen*.kt</mask>
       <mask>*Presenter*.kt</mask>
+      <mask>*A*.kt</mask>
+      <mask>*Act*.kt</mask>
+      <mask>*Activity*.kt</mask>
+      <mask>*F*.kt</mask>
+      <mask>*Fr*.kt</mask>
+      <mask>*Fra*.kt</mask>
+      <mask>*Frag*.kt</mask>
+      <mask>*Fragme*.kt</mask>
+      <mask>*Fragment*.kt</mask>
+      <mask>*Fragmen*.kt</mask>
     </recentFileMasks>
   </component>
 </application>
