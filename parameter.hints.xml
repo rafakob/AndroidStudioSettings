@@ -3,6 +3,10 @@
     <blacklists>
       <blacklist language="Kotlin">
         <added pattern="org.jetbrains.anko.intentFor(params)" />
+        <added pattern="com.cccs.rosella.navigation.Navigator.navigateToParentMain(context)" />
+        <added pattern="com.cccs.rosella.navigation.Navigator.recreateStack(context,targetIntent)" />
+        <added pattern="com.cccs.rosella.repository.push.Push.contentIntent(context)" />
+        <added pattern="com.cccs.rosella.navigation.Navigator.navigateToLogin(context)" />
       </blacklist>
     </blacklists>
   </component>
