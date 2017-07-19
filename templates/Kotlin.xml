@@ -1,0 +1,14 @@
+<templateSet group="Kotlin">
+  <template name="bindpresenter" value="bind&lt;$name$Presenter&gt;() with autoScopedSingleton(androidActivityScope) { $name$Presenter() }" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="injectpresenter" value="override val presenter: $name$Presenter by kodein.instance()" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+</templateSet>
