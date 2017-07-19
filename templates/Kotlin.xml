@@ -1,17 +1,17 @@
 <templateSet group="Kotlin">
-  <template name="bindpresenter" value="bind&lt;$name$&gt;() with scopedSingleton(androidActivityScope) { $name$() }" toReformat="false" toShortenFQNames="true">
+  <template name="bindpresenter" value="bind&lt;$name$&gt;() with scopedSingleton(androidActivityScope) { $name$() }" description="" toReformat="false" toShortenFQNames="true">
     <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="KOTLIN" value="true" />
     </context>
   </template>
-  <template name="injectpresenter" value="override val presenter: $name$ by kodein.with(this).instance()" toReformat="false" toShortenFQNames="true">
+  <template name="injectpresenter" value="override val presenter: $name$ by kodein.with(this).instance()" description="" toReformat="false" toShortenFQNames="true">
     <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="KOTLIN" value="true" />
     </context>
   </template>
-  <template name="bind" value="bind&lt;$name$&gt;() with $method$ { $name$() }" toReformat="false" toShortenFQNames="true">
+  <template name="bind" value="bind&lt;$name$&gt;() with $method$ { $name$() }" description="" toReformat="false" toShortenFQNames="true">
     <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="method" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
