@@ -10,6 +10,8 @@
         <added pattern="org.jetbrains.anko.withArguments(params)" />
         <added pattern="com.cccs.rosella.features.parent.ParentActivity.loadFragment(position)" />
         <added pattern="com.cccs.rosella.features.parent.ParentView.loadFragment(position)" />
+        <added pattern="com.github.salomonbrys.kodein.bind(tag)" />
+        <added pattern="com.github.salomonbrys.kodein.instance(instance)" />
       </blacklist>
     </blacklists>
   </component>
