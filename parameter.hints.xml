@@ -21,6 +21,7 @@
         <added pattern="com.github.salomonbrys.kodein.android.autoAndroidModule(app)" />
         <added pattern="com.cccs.rosella.dependencies.dataModule(app)" />
         <added pattern="com.cccs.rosella.views.ConfirmDialog.cancelable(cancelable)" />
+        <added pattern="com.cccs.rosella.views.ConfirmDialog(context,title,content,onPositive)" />
       </blacklist>
     </blacklists>
   </component>
