@@ -22,6 +22,7 @@
         <added pattern="com.cccs.rosella.dependencies.dataModule(app)" />
         <added pattern="com.cccs.rosella.views.ConfirmDialog.cancelable(cancelable)" />
         <added pattern="com.cccs.rosella.views.ConfirmDialog(context,title,content,onPositive)" />
+        <added pattern="com.cccs.rosella.views.ConfirmDialog(context,title,content,cancelable,positiveText,negativeText,onNegative,onPositive)" />
       </blacklist>
     </blacklists>
   </component>
