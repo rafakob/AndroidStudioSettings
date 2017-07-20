@@ -13,6 +13,7 @@
         <added pattern="com.github.salomonbrys.kodein.bind(tag)" />
         <added pattern="com.github.salomonbrys.kodein.instance(instance)" />
         <added pattern="com.github.salomonbrys.kodein.with(arg)" />
+        <added pattern="com.cccs.rosella.dependencies.useCaseModule(context)" />
       </blacklist>
     </blacklists>
   </component>
