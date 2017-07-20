@@ -23,6 +23,7 @@
         <added pattern="com.cccs.rosella.views.ConfirmDialog.cancelable(cancelable)" />
         <added pattern="com.cccs.rosella.views.ConfirmDialog(context,title,content,onPositive)" />
         <added pattern="com.cccs.rosella.views.ConfirmDialog(context,title,content,cancelable,positiveText,negativeText,onNegative,onPositive)" />
+        <added pattern="com.porterex.core.MvpDelegate.setupViews(context,activity,coordinator,toolbar,appBar,loadingState,errorState,emptyState,contentState,recycler,swipeRefresh)" />
       </blacklist>
     </blacklists>
   </component>
