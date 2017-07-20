@@ -14,6 +14,12 @@
         <added pattern="com.github.salomonbrys.kodein.instance(instance)" />
         <added pattern="com.github.salomonbrys.kodein.with(arg)" />
         <added pattern="com.cccs.rosella.dependencies.useCaseModule(context)" />
+        <added pattern="com.cccs.rosella.dependencies.activityModule(app)" />
+        <added pattern="com.cccs.rosella.dependencies.fragmentModule(app)" />
+        <added pattern="com.cccs.rosella.dependencies.useCaseModule(app)" />
+        <added pattern="com.cccs.rosella.dependencies.networkModule(app)" />
+        <added pattern="com.github.salomonbrys.kodein.android.autoAndroidModule(app)" />
+        <added pattern="com.cccs.rosella.dependencies.dataModule(app)" />
       </blacklist>
     </blacklists>
   </component>
