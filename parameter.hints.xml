@@ -25,6 +25,7 @@
         <added pattern="com.cccs.rosella.views.ConfirmDialog(context,title,content,cancelable,positiveText,negativeText,onNegative,onPositive)" />
         <added pattern="com.porterex.core.MvpDelegate.setupViews(context,activity,coordinator,toolbar,appBar,loadingState,errorState,emptyState,contentState,recycler,swipeRefresh)" />
         <added pattern="android.content.Intent.getIntExtra(name,defaultValue)" />
+        <added pattern="com.cccs.rosella.features.students.StudentsView.updateMedicalAlerts(studentId,medicalAlertsCount)" />
       </blacklist>
     </blacklists>
   </component>
