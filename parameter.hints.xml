@@ -30,6 +30,7 @@
         <added pattern="com.rafakob.synomanager.features.navigator.Navigator.navigateToLogin(context)" />
         <added pattern="com.rafakob.synomanager.features.navigator.Navigator.navigateToConnection(context)" />
         <added pattern="com.rafakob.synomanager.features.connection.ConnectionPresenter.loadConnection(connection)" />
+        <added pattern="com.rafakob.synomanager.features.navigator.Navigator.navigateToConnection(context,connection)" />
       </blacklist>
     </blacklists>
   </component>
