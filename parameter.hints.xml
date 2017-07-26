@@ -31,6 +31,8 @@
         <added pattern="com.rafakob.synomanager.features.navigator.Navigator.navigateToConnection(context)" />
         <added pattern="com.rafakob.synomanager.features.connection.ConnectionPresenter.loadConnection(connection)" />
         <added pattern="com.rafakob.synomanager.features.navigator.Navigator.navigateToConnection(context,connection)" />
+        <added pattern="kotlin.text.removePrefix(prefix)" />
+        <added pattern="kotlin.text.removeSuffix(suffix)" />
       </blacklist>
     </blacklists>
   </component>
