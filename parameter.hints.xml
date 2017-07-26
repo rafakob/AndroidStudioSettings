@@ -28,6 +28,7 @@
         <added pattern="com.cccs.rosella.features.students.StudentsView.updateMedicalAlerts(studentId,medicalAlertsCount)" />
         <added pattern="com.cccs.rosella.repository.entity.Credentials(username,password,grantType)" />
         <added pattern="com.rafakob.synomanager.features.navigator.Navigator.navigateToLogin(context)" />
+        <added pattern="com.rafakob.synomanager.features.navigator.Navigator.navigateToConnection(context)" />
       </blacklist>
     </blacklists>
   </component>
