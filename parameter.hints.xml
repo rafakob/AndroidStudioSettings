@@ -28,6 +28,7 @@
         <added pattern="com.cccs.rosella.features.students.StudentsView.updateMedicalAlerts(studentId,medicalAlertsCount)" />
         <added pattern="com.cccs.rosella.repository.entity.Credentials(username,password,grantType)" />
         <added pattern="com.f2prateek.rx.preferences2.RxSharedPreferences.getObject(key,defaultValue,converter)" />
+        <added pattern="com.cccs.rosella.usecases.user.GetNotifications.execute(params)" />
       </blacklist>
       <blacklist language="Java">
         <added pattern="android.support.v7.widget.LinearLayoutManager.LinearLayoutManager(context)" />
