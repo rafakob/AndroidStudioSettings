@@ -36,6 +36,9 @@
         <added pattern="com.rafakob.synomanager.api.AuthService.login(params)" />
         <added pattern="android.content.Intent.getParcelableExtra(name)" />
         <added pattern="android.view.Menu.getItem(p0)" />
+        <added pattern="com.mikepenz.materialdrawer.DrawerBuilder.withTranslucentStatusBar(translucentStatusBar)" />
+        <added pattern="com.mikepenz.materialdrawer.DrawerBuilder.withFullscreen(fullscreen)" />
+        <added pattern="com.mikepenz.materialdrawer.DrawerBuilder.withActivity(activity)" />
       </blacklist>
     </blacklists>
   </component>
