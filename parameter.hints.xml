@@ -35,6 +35,7 @@
         <added pattern="kotlin.text.removeSuffix(suffix)" />
         <added pattern="com.rafakob.synomanager.api.AuthService.login(params)" />
         <added pattern="android.content.Intent.getParcelableExtra(name)" />
+        <added pattern="android.view.Menu.getItem(p0)" />
       </blacklist>
     </blacklists>
   </component>
