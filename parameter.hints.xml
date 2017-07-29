@@ -39,6 +39,12 @@
         <added pattern="com.mikepenz.materialdrawer.DrawerBuilder.withTranslucentStatusBar(translucentStatusBar)" />
         <added pattern="com.mikepenz.materialdrawer.DrawerBuilder.withFullscreen(fullscreen)" />
         <added pattern="com.mikepenz.materialdrawer.DrawerBuilder.withActivity(activity)" />
+        <added pattern="com.mikepenz.materialdrawer.model.SecondaryDrawerItem.withSelectable(selectable)" />
+        <added pattern="com.rafakob.synomanager.features.main.MainActivity.primaryItem(nameRes,iconRes,selectable,onClick)" />
+        <added pattern="com.rafakob.synomanager.features.main.MainActivity.secondaryItem(nameRes,iconRes,selectable,onClick)" />
+        <added pattern="com.rafakob.synomanager.features.maindrawer.MainDrawer.build(activity,toolbar)" />
+        <added pattern="com.rafakob.synomanager.features.maindrawer.MainDrawer.primaryItem(nameRes,iconRes,selectable,onClick)" />
+        <added pattern="com.rafakob.synomanager.features.maindrawer.MainDrawer.secondaryItem(nameRes,iconRes,selectable,onClick)" />
       </blacklist>
     </blacklists>
   </component>
