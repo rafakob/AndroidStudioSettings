@@ -45,6 +45,8 @@
         <added pattern="com.rafakob.synomanager.features.maindrawer.MainDrawer.build(activity,toolbar)" />
         <added pattern="com.rafakob.synomanager.features.maindrawer.MainDrawer.primaryItem(nameRes,iconRes,selectable,onClick)" />
         <added pattern="com.rafakob.synomanager.features.maindrawer.MainDrawer.secondaryItem(nameRes,iconRes,selectable,onClick)" />
+        <added pattern="com.rafakob.synomanager.features.main.MainDrawer.primaryItem(nameRes,iconRes,selectable,onClick)" />
+        <added pattern="com.rafakob.synomanager.features.main.MainDrawer.secondaryItem(nameRes,iconRes,selectable,onClick)" />
       </blacklist>
     </blacklists>
   </component>
