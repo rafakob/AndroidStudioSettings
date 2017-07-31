@@ -47,6 +47,7 @@
         <added pattern="com.rafakob.synomanager.features.maindrawer.MainDrawer.secondaryItem(nameRes,iconRes,selectable,onClick)" />
         <added pattern="com.rafakob.synomanager.features.main.MainDrawer.primaryItem(nameRes,iconRes,selectable,onClick)" />
         <added pattern="com.rafakob.synomanager.features.main.MainDrawer.secondaryItem(nameRes,iconRes,selectable,onClick)" />
+        <added pattern="com.rafakob.synomanager.extensions.rx.single.repeatEvery(period,unit)" />
       </blacklist>
     </blacklists>
   </component>
