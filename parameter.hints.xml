@@ -27,11 +27,26 @@
         <added pattern="android.content.Intent.getIntExtra(name,defaultValue)" />
         <added pattern="com.cccs.rosella.features.students.StudentsView.updateMedicalAlerts(studentId,medicalAlertsCount)" />
         <added pattern="com.cccs.rosella.repository.entity.Credentials(username,password,grantType)" />
-        <added pattern="com.f2prateek.rx.preferences2.RxSharedPreferences.getObject(key,defaultValue,converter)" />
-        <added pattern="com.cccs.rosella.usecases.user.GetNotifications.execute(params)" />
-      </blacklist>
-      <blacklist language="Java">
-        <added pattern="android.support.v7.widget.LinearLayoutManager.LinearLayoutManager(context)" />
+        <added pattern="com.rafakob.synomanager.features.navigator.Navigator.navigateToLogin(context)" />
+        <added pattern="com.rafakob.synomanager.features.navigator.Navigator.navigateToConnection(context)" />
+        <added pattern="com.rafakob.synomanager.features.connection.ConnectionPresenter.loadConnection(connection)" />
+        <added pattern="com.rafakob.synomanager.features.navigator.Navigator.navigateToConnection(context,connection)" />
+        <added pattern="kotlin.text.removePrefix(prefix)" />
+        <added pattern="kotlin.text.removeSuffix(suffix)" />
+        <added pattern="com.rafakob.synomanager.api.AuthService.login(params)" />
+        <added pattern="android.content.Intent.getParcelableExtra(name)" />
+        <added pattern="android.view.Menu.getItem(p0)" />
+        <added pattern="com.mikepenz.materialdrawer.DrawerBuilder.withTranslucentStatusBar(translucentStatusBar)" />
+        <added pattern="com.mikepenz.materialdrawer.DrawerBuilder.withFullscreen(fullscreen)" />
+        <added pattern="com.mikepenz.materialdrawer.DrawerBuilder.withActivity(activity)" />
+        <added pattern="com.mikepenz.materialdrawer.model.SecondaryDrawerItem.withSelectable(selectable)" />
+        <added pattern="com.rafakob.synomanager.features.main.MainActivity.primaryItem(nameRes,iconRes,selectable,onClick)" />
+        <added pattern="com.rafakob.synomanager.features.main.MainActivity.secondaryItem(nameRes,iconRes,selectable,onClick)" />
+        <added pattern="com.rafakob.synomanager.features.maindrawer.MainDrawer.build(activity,toolbar)" />
+        <added pattern="com.rafakob.synomanager.features.maindrawer.MainDrawer.primaryItem(nameRes,iconRes,selectable,onClick)" />
+        <added pattern="com.rafakob.synomanager.features.maindrawer.MainDrawer.secondaryItem(nameRes,iconRes,selectable,onClick)" />
+        <added pattern="com.rafakob.synomanager.features.main.MainDrawer.primaryItem(nameRes,iconRes,selectable,onClick)" />
+        <added pattern="com.rafakob.synomanager.features.main.MainDrawer.secondaryItem(nameRes,iconRes,selectable,onClick)" />
       </blacklist>
     </blacklists>
   </component>
