@@ -51,6 +51,7 @@
         <added pattern="android.content.Intent.getStringExtra(name)" />
         <added pattern="com.rafakob.synomanager.features.task.TaskPagerAdapter(activity,taskId)" />
         <added pattern="com.rafakob.synomanager.features.taskdetails.TaskDetailsView.addParam(labelRes,value)" />
+        <added pattern="com.rafakob.synomanager.features.task.TaskPagerAdapter(activity)" />
       </blacklist>
     </blacklists>
   </component>
