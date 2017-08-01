@@ -48,6 +48,8 @@
         <added pattern="com.rafakob.synomanager.features.main.MainDrawer.primaryItem(nameRes,iconRes,selectable,onClick)" />
         <added pattern="com.rafakob.synomanager.features.main.MainDrawer.secondaryItem(nameRes,iconRes,selectable,onClick)" />
         <added pattern="com.rafakob.synomanager.extensions.rx.single.repeatEvery(period,unit)" />
+        <added pattern="android.content.Intent.getStringExtra(name)" />
+        <added pattern="com.rafakob.synomanager.features.task.TaskPagerAdapter(activity,taskId)" />
       </blacklist>
     </blacklists>
   </component>
