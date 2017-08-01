@@ -52,6 +52,8 @@
         <added pattern="com.rafakob.synomanager.features.task.TaskPagerAdapter(activity,taskId)" />
         <added pattern="com.rafakob.synomanager.features.taskdetails.TaskDetailsView.addParam(labelRes,value)" />
         <added pattern="com.rafakob.synomanager.features.task.TaskPagerAdapter(activity)" />
+        <added pattern="android.view.ViewPropertyAnimator.translationY(value)" />
+        <added pattern="android.os.Handler.postDelayed(r,delayMillis)" />
       </blacklist>
     </blacklists>
   </component>
