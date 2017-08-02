@@ -2,55 +2,8 @@
   <component name="ParameterNameHintsSettings">
     <blacklists>
       <blacklist language="Kotlin">
-        <added pattern="org.jetbrains.anko.intentFor(params)" />
-        <added pattern="com.cccs.rosella.navigation.Navigator.navigateToParentMain(context)" />
-        <added pattern="com.cccs.rosella.navigation.Navigator.recreateStack(context,targetIntent)" />
-        <added pattern="com.cccs.rosella.repository.push.Push.contentIntent(context)" />
-        <added pattern="com.cccs.rosella.navigation.Navigator.navigateToLogin(context)" />
-        <added pattern="org.jetbrains.anko.withArguments(params)" />
-        <added pattern="com.cccs.rosella.features.parent.ParentActivity.loadFragment(position)" />
-        <added pattern="com.cccs.rosella.features.parent.ParentView.loadFragment(position)" />
-        <added pattern="com.github.salomonbrys.kodein.bind(tag)" />
-        <added pattern="com.github.salomonbrys.kodein.instance(instance)" />
-        <added pattern="com.github.salomonbrys.kodein.with(arg)" />
-        <added pattern="com.cccs.rosella.dependencies.useCaseModule(context)" />
-        <added pattern="com.cccs.rosella.dependencies.activityModule(app)" />
-        <added pattern="com.cccs.rosella.dependencies.fragmentModule(app)" />
-        <added pattern="com.cccs.rosella.dependencies.useCaseModule(app)" />
-        <added pattern="com.cccs.rosella.dependencies.networkModule(app)" />
-        <added pattern="com.github.salomonbrys.kodein.android.autoAndroidModule(app)" />
-        <added pattern="com.cccs.rosella.dependencies.dataModule(app)" />
-        <added pattern="com.cccs.rosella.views.ConfirmDialog.cancelable(cancelable)" />
-        <added pattern="com.cccs.rosella.views.ConfirmDialog(context,title,content,onPositive)" />
-        <added pattern="com.cccs.rosella.views.ConfirmDialog(context,title,content,cancelable,positiveText,negativeText,onNegative,onPositive)" />
-        <added pattern="com.porterex.core.MvpDelegate.setupViews(context,activity,coordinator,toolbar,appBar,loadingState,errorState,emptyState,contentState,recycler,swipeRefresh)" />
-        <added pattern="android.content.Intent.getIntExtra(name,defaultValue)" />
-        <added pattern="com.cccs.rosella.features.students.StudentsView.updateMedicalAlerts(studentId,medicalAlertsCount)" />
-        <added pattern="com.cccs.rosella.repository.entity.Credentials(username,password,grantType)" />
-        <added pattern="com.rafakob.synomanager.features.navigator.Navigator.navigateToLogin(context)" />
-        <added pattern="com.rafakob.synomanager.features.navigator.Navigator.navigateToConnection(context)" />
-        <added pattern="com.rafakob.synomanager.features.connection.ConnectionPresenter.loadConnection(connection)" />
-        <added pattern="com.rafakob.synomanager.features.navigator.Navigator.navigateToConnection(context,connection)" />
-        <added pattern="kotlin.text.removePrefix(prefix)" />
-        <added pattern="kotlin.text.removeSuffix(suffix)" />
-        <added pattern="com.rafakob.synomanager.api.AuthService.login(params)" />
-        <added pattern="android.content.Intent.getParcelableExtra(name)" />
-        <added pattern="android.view.Menu.getItem(p0)" />
-        <added pattern="com.mikepenz.materialdrawer.DrawerBuilder.withTranslucentStatusBar(translucentStatusBar)" />
-        <added pattern="com.mikepenz.materialdrawer.DrawerBuilder.withFullscreen(fullscreen)" />
-        <added pattern="com.mikepenz.materialdrawer.DrawerBuilder.withActivity(activity)" />
-        <added pattern="com.mikepenz.materialdrawer.model.SecondaryDrawerItem.withSelectable(selectable)" />
-        <added pattern="com.rafakob.synomanager.features.main.MainActivity.primaryItem(nameRes,iconRes,selectable,onClick)" />
-        <added pattern="com.rafakob.synomanager.features.main.MainActivity.secondaryItem(nameRes,iconRes,selectable,onClick)" />
-        <added pattern="com.rafakob.synomanager.features.maindrawer.MainDrawer.build(activity,toolbar)" />
-        <added pattern="com.rafakob.synomanager.features.maindrawer.MainDrawer.primaryItem(nameRes,iconRes,selectable,onClick)" />
-        <added pattern="com.rafakob.synomanager.features.maindrawer.MainDrawer.secondaryItem(nameRes,iconRes,selectable,onClick)" />
-        <added pattern="com.rafakob.synomanager.features.main.MainDrawer.primaryItem(nameRes,iconRes,selectable,onClick)" />
-        <added pattern="com.rafakob.synomanager.features.main.MainDrawer.secondaryItem(nameRes,iconRes,selectable,onClick)" />
-        <added pattern="com.rafakob.synomanager.extensions.rx.single.repeatEvery(period,unit)" />
-        <added pattern="com.mikepenz.fastadapter.commons.adapters.FastItemAdapter.withSelectOnLongClick(selectOnLongClick)" />
-        <added pattern="com.mikepenz.fastadapter.commons.adapters.FastItemAdapter.withMultiSelect(multiSelect)" />
-        <added pattern="com.mikepenz.fastadapter.commons.adapters.FastItemAdapter.withSelectable(selectable)" />
+        <added pattern="android.support.v7.widget.LinearLayoutManager(context)" />
+        <added pattern="com.rafakob.synomanager.features.downloadstationsettings.DownloadStationSettingsView.addPrefText(nameRes,summaryRes,value,f)" />
       </blacklist>
     </blacklists>
   </component>
