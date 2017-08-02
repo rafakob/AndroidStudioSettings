@@ -48,6 +48,9 @@
         <added pattern="com.rafakob.synomanager.features.main.MainDrawer.primaryItem(nameRes,iconRes,selectable,onClick)" />
         <added pattern="com.rafakob.synomanager.features.main.MainDrawer.secondaryItem(nameRes,iconRes,selectable,onClick)" />
         <added pattern="com.rafakob.synomanager.extensions.rx.single.repeatEvery(period,unit)" />
+        <added pattern="com.mikepenz.fastadapter.commons.adapters.FastItemAdapter.withSelectOnLongClick(selectOnLongClick)" />
+        <added pattern="com.mikepenz.fastadapter.commons.adapters.FastItemAdapter.withMultiSelect(multiSelect)" />
+        <added pattern="com.mikepenz.fastadapter.commons.adapters.FastItemAdapter.withSelectable(selectable)" />
       </blacklist>
     </blacklists>
   </component>
