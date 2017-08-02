@@ -1,0 +1,10 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Kotlin">
+        <added pattern="android.support.v7.widget.LinearLayoutManager(context)" />
+        <added pattern="com.rafakob.synomanager.features.downloadstationsettings.DownloadStationSettingsView.addPrefText(nameRes,summaryRes,value,f)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
