@@ -6,6 +6,7 @@
         <added pattern="com.rafakob.synomanager.features.downloadstationsettings.DownloadStationSettingsView.addPrefText(nameRes,summaryRes,value,f)" />
         <added pattern="com.rafakob.synomanager.features.task.TaskPresenter.onDeleteClick(confirmed)" />
         <added pattern="com.github.salomonbrys.kodein.with(arg)" />
+        <added pattern="android.content.Intent.getIntExtra(name,defaultValue)" />
       </blacklist>
     </blacklists>
   </component>
