@@ -5,6 +5,7 @@
         <added pattern="android.support.v7.widget.LinearLayoutManager(context)" />
         <added pattern="com.rafakob.synomanager.features.downloadstationsettings.DownloadStationSettingsView.addPrefText(nameRes,summaryRes,value,f)" />
         <added pattern="com.rafakob.synomanager.features.task.TaskPresenter.onDeleteClick(confirmed)" />
+        <added pattern="com.github.salomonbrys.kodein.with(arg)" />
       </blacklist>
     </blacklists>
   </component>
