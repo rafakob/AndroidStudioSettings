@@ -7,6 +7,8 @@
         <added pattern="com.rafakob.synomanager.features.task.TaskPresenter.onDeleteClick(confirmed)" />
         <added pattern="com.github.salomonbrys.kodein.with(arg)" />
         <added pattern="android.content.Intent.getIntExtra(name,defaultValue)" />
+        <added pattern="com.cccs.rosella.features.paymentprofiles.PaymentProfilesPresenter.deleteProfile(model,confirmed)" />
+        <added pattern="com.cccs.rosella.features.paymentprofiles.PaymentProfilesPresenter.setProfilePrimary(model,confirmed)" />
       </blacklist>
     </blacklists>
   </component>
