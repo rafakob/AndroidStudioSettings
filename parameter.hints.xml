@@ -9,6 +9,13 @@
         <added pattern="android.content.Intent.getIntExtra(name,defaultValue)" />
         <added pattern="com.cccs.rosella.features.paymentprofiles.PaymentProfilesPresenter.deleteProfile(model,confirmed)" />
         <added pattern="com.cccs.rosella.features.paymentprofiles.PaymentProfilesPresenter.setProfilePrimary(model,confirmed)" />
+        <added pattern="com.cccs.rosella.features.navigator.Navigator.startCenterMessagesActivity(fragment)" />
+        <added pattern="com.cccs.rosella.features.navigator.Navigator.startStudentMessagesActivity(fragment,student)" />
+        <added pattern="com.cccs.rosella.features.navigator.Navigator.startStudentMessagesActivity(fragment,studentId)" />
+        <added pattern="com.cccs.rosella.features.navigator.Navigator.startStudentMessagesActivityForResult(fragment,studentId)" />
+        <added pattern="com.cccs.rosella.features.navigator.Navigator.startCenterMessagesActivityForResult(fragment)" />
+        <added pattern="com.cccs.rosella.features.navigator.Navigator.startStudentMessagesForResult(fragment,studentId)" />
+        <added pattern="com.cccs.rosella.features.navigator.Navigator.startCenterMessagesForResult(fragment)" />
       </blacklist>
     </blacklists>
   </component>
