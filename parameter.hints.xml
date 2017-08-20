@@ -17,6 +17,8 @@
         <added pattern="com.cccs.rosella.features.navigator.Navigator.startStudentMessagesForResult(fragment,studentId)" />
         <added pattern="com.cccs.rosella.features.navigator.Navigator.startCenterMessagesForResult(fragment)" />
         <added pattern="android.widget.ArrayAdapter(context,resource,objects)" />
+        <added pattern="android.view.ViewPropertyAnimator.translationY(value)" />
+        <added pattern="android.os.Handler.postDelayed(r,delayMillis)" />
       </blacklist>
     </blacklists>
   </component>
