@@ -19,6 +19,8 @@
         <added pattern="android.widget.ArrayAdapter(context,resource,objects)" />
         <added pattern="android.view.ViewPropertyAnimator.translationY(value)" />
         <added pattern="android.os.Handler.postDelayed(r,delayMillis)" />
+        <added pattern="com.rafakob.synomanager.features.errorhandler.ErrorHandler.errorMessage(t,apiCodes)" />
+        <added pattern="com.rafakob.synomanager.features.errorhandler.ErrorHandler.getMessage(t,apiCodes)" />
       </blacklist>
     </blacklists>
   </component>
