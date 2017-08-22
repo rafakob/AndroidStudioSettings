@@ -18,6 +18,7 @@
         <added pattern="com.cccs.rosella.features.navigator.Navigator.startCenterMessagesForResult(fragment)" />
         <added pattern="android.widget.ArrayAdapter(context,resource,objects)" />
         <added pattern="com.cccs.rosella.views.DatePicker(context)" />
+        <added pattern="kotlin.collections.MutableList.addAll(elements)" />
       </blacklist>
     </blacklists>
   </component>
