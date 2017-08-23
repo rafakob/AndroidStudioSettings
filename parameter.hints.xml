@@ -19,6 +19,8 @@
         <added pattern="android.widget.ArrayAdapter(context,resource,objects)" />
         <added pattern="com.cccs.rosella.views.DatePicker(context)" />
         <added pattern="kotlin.collections.MutableList.addAll(elements)" />
+        <added pattern="org.jetbrains.anko.startActivityForResult(requestCode,params)" />
+        <added pattern="android.content.Intent.getSerializableExtra(name)" />
       </blacklist>
     </blacklists>
   </component>
