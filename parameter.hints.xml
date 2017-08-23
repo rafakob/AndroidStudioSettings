@@ -21,6 +21,7 @@
         <added pattern="kotlin.collections.MutableList.addAll(elements)" />
         <added pattern="android.view.LayoutInflater.inflate(resource,root,attachToRoot)" />
         <added pattern="kotlin.text.format(args)" />
+        <added pattern="com.mikepenz.fastadapter.commons.utils.FastAdapterDiffUtil.set(adapter,items,callback,detectMoves)" />
       </blacklist>
     </blacklists>
   </component>
