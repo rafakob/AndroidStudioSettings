@@ -20,6 +20,7 @@
         <added pattern="com.cccs.rosella.views.DatePicker(context)" />
         <added pattern="kotlin.collections.MutableList.addAll(elements)" />
         <added pattern="android.view.LayoutInflater.inflate(resource,root,attachToRoot)" />
+        <added pattern="kotlin.text.format(args)" />
       </blacklist>
     </blacklists>
   </component>
