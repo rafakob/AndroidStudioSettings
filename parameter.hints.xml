@@ -21,6 +21,7 @@
         <added pattern="kotlin.collections.MutableList.addAll(elements)" />
         <added pattern="android.view.LayoutInflater.inflate(resource,root,attachToRoot)" />
         <added pattern="android.content.Intent.putExtra(name,value)" />
+        <added pattern="io.reactivex.Flowable.timer(delay,unit)" />
       </blacklist>
     </blacklists>
   </component>
