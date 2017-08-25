@@ -26,6 +26,7 @@
       <blacklist language="Java">
         <added pattern="android.support.v7.widget.LinearLayoutManager.LinearLayoutManager(context)" />
         <added pattern="android.view.View.inflate(context,resource,root)" />
+        <added pattern="android.view.LayoutInflater.inflate(resource,root,attachToRoot)" />
       </blacklist>
     </blacklists>
   </component>
