@@ -1,6 +1,12 @@
 <application>
   <component name="ParameterNameHintsSettings">
     <blacklists>
+      <blacklist language="Java">
+        <added pattern="android.support.v7.widget.LinearLayoutManager.LinearLayoutManager(context)" />
+        <added pattern="android.view.View.inflate(context,resource,root)" />
+        <added pattern="android.view.LayoutInflater.inflate(resource,root,attachToRoot)" />
+        <added pattern="com.cccs.rosella.dependencies.ActivityComponent.inject(documentLibraryActivity)" />
+      </blacklist>
       <blacklist language="Kotlin">
         <added pattern="android.support.v7.widget.LinearLayoutManager(context)" />
         <added pattern="com.rafakob.synomanager.features.downloadstationsettings.DownloadStationSettingsView.addPrefText(nameRes,summaryRes,value,f)" />
@@ -22,11 +28,6 @@
         <added pattern="android.view.LayoutInflater.inflate(resource,root,attachToRoot)" />
         <added pattern="kotlin.text.format(args)" />
         <added pattern="com.mikepenz.fastadapter.commons.utils.FastAdapterDiffUtil.set(adapter,items,callback,detectMoves)" />
-      </blacklist>
-      <blacklist language="Java">
-        <added pattern="android.support.v7.widget.LinearLayoutManager.LinearLayoutManager(context)" />
-        <added pattern="android.view.View.inflate(context,resource,root)" />
-        <added pattern="android.view.LayoutInflater.inflate(resource,root,attachToRoot)" />
       </blacklist>
     </blacklists>
   </component>
