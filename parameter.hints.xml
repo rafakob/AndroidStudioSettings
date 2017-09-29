@@ -28,6 +28,7 @@
         <added pattern="android.view.LayoutInflater.inflate(resource,root,attachToRoot)" />
         <added pattern="kotlin.text.format(args)" />
         <added pattern="com.mikepenz.fastadapter.commons.utils.FastAdapterDiffUtil.set(adapter,items,callback,detectMoves)" />
+        <added pattern="com.rafakob.synomanager.features.navigator.Navigator.startTorrentSearchFilter(fragment)" />
       </blacklist>
     </blacklists>
   </component>
