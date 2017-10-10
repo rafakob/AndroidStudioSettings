@@ -31,6 +31,7 @@
         <added pattern="com.mikepenz.fastadapter.commons.utils.FastAdapterDiffUtil.set(adapter,items,callback,detectMoves)" />
         <added pattern="com.rafakob.synomanager.features.navigator.Navigator.startTorrentSearchFilter(fragment)" />
         <added pattern="com.rafakob.synomanager.core.extensions.init(adapter,animator,decorators)" />
+        <added pattern="com.rafakob.synomanager.core.extensions.init(adapter,animator,manager,decorators)" />
       </blacklist>
     </blacklists>
   </component>
