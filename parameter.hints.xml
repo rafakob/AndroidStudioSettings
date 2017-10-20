@@ -33,6 +33,7 @@
         <added pattern="com.rafakob.synomanager.core.extensions.init(adapter,animator,decorators)" />
         <added pattern="com.rafakob.synomanager.core.extensions.init(adapter,animator,manager,decorators)" />
         <added pattern="com.afollestad.materialdialogs.MaterialDialog.Builder.customView(layoutRes,wrapInScrollView)" />
+        <added pattern="com.instantcommand.client.services.beacon.LocationService.stopForeground(removeNotification)" />
       </blacklist>
     </blacklists>
   </component>
