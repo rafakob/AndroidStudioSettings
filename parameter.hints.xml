@@ -35,6 +35,7 @@
         <added pattern="com.afollestad.materialdialogs.MaterialDialog.Builder.customView(layoutRes,wrapInScrollView)" />
         <added pattern="com.instantcommand.client.services.beacon.LocationService.stopForeground(removeNotification)" />
         <added pattern="com.instantcommand.client.services.beacon.RxBeaconManager.log(tag,msg)" />
+        <added pattern="com.ubudu.indoorlocation.UbuduIndoorLocationManager.removeRangedBeaconsNotifier(p0)" />
       </blacklist>
     </blacklists>
   </component>
