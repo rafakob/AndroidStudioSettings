@@ -36,6 +36,7 @@
         <added pattern="com.instantcommand.client.services.beacon.LocationService.stopForeground(removeNotification)" />
         <added pattern="com.instantcommand.client.services.beacon.RxBeaconManager.log(tag,msg)" />
         <added pattern="com.ubudu.indoorlocation.UbuduIndoorLocationManager.removeRangedBeaconsNotifier(p0)" />
+        <added pattern="com.instantcommand.client.services.beacon.PositionTrackingService.stopForeground(removeNotification)" />
       </blacklist>
     </blacklists>
   </component>
