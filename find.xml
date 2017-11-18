@@ -1,25 +1,12 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*presenter*" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*D.mxml</mask>
-      <mask>*Da.mxml</mask>
-      <mask>*Dat.mxml</mask>
-      <mask>*Data.mxml</mask>
-      <mask>*DataI.mxml</mask>
       <mask>*DataIm.mxml</mask>
       <mask>*DataImp.mxml</mask>
       <mask>*DataImpl.mxml</mask>
@@ -36,6 +23,20 @@
       <mask>.ja</mask>
       <mask>.jav</mask>
       <mask>.java</mask>
+      <mask>p</mask>
+      <mask>pr</mask>
+      <mask>pres</mask>
+      <mask>pre</mask>
+      <mask>*</mask>
+      <mask>*p</mask>
+      <mask>*pr</mask>
+      <mask>*pre</mask>
+      <mask>*pres</mask>
+      <mask>*prese</mask>
+      <mask>*present</mask>
+      <mask>*presente</mask>
+      <mask>*presenter</mask>
+      <mask>*presenter*</mask>
     </recentFileMasks>
   </component>
 </application>
