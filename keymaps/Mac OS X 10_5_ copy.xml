@@ -1,47 +1,14 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
-  <action id="CheckinProject" />
-  <action id="CloseActiveTab">
-    <keyboard-shortcut first-keystroke="shift ctrl f4" />
-    <keyboard-shortcut first-keystroke="ctrl w" />
-  </action>
-  <action id="EditorDecreaseFontSize">
-    <keyboard-shortcut first-keystroke="ctrl meta minus" />
-  </action>
-  <action id="EditorIncreaseFontSize">
-    <keyboard-shortcut first-keystroke="ctrl meta equals" />
-  </action>
-  <action id="EditorResetFontSize">
-    <keyboard-shortcut first-keystroke="ctrl meta 0" />
-  </action>
-  <action id="EvaluateExpression">
-    <keyboard-shortcut first-keystroke="alt f8" />
-    <keyboard-shortcut first-keystroke="shift meta l" />
-  </action>
-  <action id="FileChooser.TogglePathShowing" />
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="alt f7" />
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
-  <action id="ParameterInfo" />
   <action id="RecentFiles" />
-  <action id="Refactorings.QuickListPopupAction">
-    <keyboard-shortcut first-keystroke="ctrl t" />
-    <keyboard-shortcut first-keystroke="meta p" />
-  </action>
   <action id="RunClass">
     <keyboard-shortcut first-keystroke="shift ctrl r" />
-    <keyboard-shortcut first-keystroke="shift meta w" />
     <keyboard-shortcut first-keystroke="meta e" />
-  </action>
-  <action id="SplitVertically">
-    <keyboard-shortcut first-keystroke="meta back_slash" />
-  </action>
-  <action id="SurroundWith">
-    <keyboard-shortcut first-keystroke="meta alt t" />
-    <keyboard-shortcut first-keystroke="meta k" />
   </action>
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
-  <action id="ZoomCurrentWindow" />
 </keymap>
