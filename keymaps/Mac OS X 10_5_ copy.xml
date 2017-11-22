@@ -1,13 +1,13 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
-  <action id="ActivateRunToolWindow">
-    <keyboard-shortcut first-keystroke="meta 4" />
-    <keyboard-shortcut first-keystroke="meta e" />
-  </action>
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="alt f7" />
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
   <action id="RecentFiles" />
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="ctrl r" />
+    <keyboard-shortcut first-keystroke="meta e" />
+  </action>
   <action id="RunClass">
     <keyboard-shortcut first-keystroke="shift ctrl r" />
     <keyboard-shortcut first-keystroke="shift meta w" />
