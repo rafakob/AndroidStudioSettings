@@ -2,13 +2,11 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.kt" />
     <recentFileMasks>
-      <mask>*DataIm.mxml</mask>
-      <mask>*DataImp.mxml</mask>
-      <mask>*DataImpl.mxml</mask>
-      <mask>*DataImpl&gt;</mask>
-      <mask>*DataImpl</mask>
       <mask>*DataImpl.</mask>
       <mask>*DataImpl.j</mask>
       <mask>*DataImpl.ja</mask>
@@ -16,7 +14,6 @@
       <mask>*DataImpl.jab</mask>
       <mask>*DataImpl.jav</mask>
       <mask>*DataImpl.java</mask>
-      <mask>.</mask>
       <mask>.ja</mask>
       <mask>.jav</mask>
       <mask>.java</mask>
@@ -24,7 +21,6 @@
       <mask>pr</mask>
       <mask>pres</mask>
       <mask>pre</mask>
-      <mask>*</mask>
       <mask>*p</mask>
       <mask>*pr</mask>
       <mask>*pre</mask>
@@ -34,6 +30,13 @@
       <mask>*presente</mask>
       <mask>*presenter</mask>
       <mask>*presenter*</mask>
+      <mask>.kt</mask>
+      <mask>.k</mask>
+      <mask>.</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.k</mask>
+      <mask>*.kt</mask>
     </recentFileMasks>
   </component>
 </application>
