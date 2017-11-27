@@ -22,10 +22,6 @@
     <keyboard-shortcut first-keystroke="alt f7" />
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
-  <action id="JRebelAndroidApplyChanges">
-    <keyboard-shortcut first-keystroke="meta f10" />
-    <keyboard-shortcut first-keystroke="shift meta s" />
-  </action>
   <action id="ParameterInfo" />
   <action id="RecentFiles" />
   <action id="Refactorings.QuickListPopupAction">
