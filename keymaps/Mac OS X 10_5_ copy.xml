@@ -27,6 +27,7 @@
     <keyboard-shortcut first-keystroke="shift meta s" />
   </action>
   <action id="ParameterInfo" />
+  <action id="RecentChangedFiles" />
   <action id="RecentFiles" />
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="ctrl t" />
