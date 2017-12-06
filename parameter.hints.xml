@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Kotlin">
+        <added pattern="com.nhaarman.mockito_kotlin.times(numInvocations)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
