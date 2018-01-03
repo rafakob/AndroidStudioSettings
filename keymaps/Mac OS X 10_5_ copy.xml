@@ -27,6 +27,10 @@
     <keyboard-shortcut first-keystroke="alt f7" />
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="shift meta a" />
+    <keyboard-shortcut first-keystroke="meta i" />
+  </action>
   <action id="JRebelAndroidApplyChanges">
     <keyboard-shortcut first-keystroke="meta f10" />
     <keyboard-shortcut first-keystroke="shift meta s" />
