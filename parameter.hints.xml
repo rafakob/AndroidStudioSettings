@@ -3,6 +3,7 @@
     <blacklists>
       <blacklist language="Kotlin">
         <added pattern="com.nhaarman.mockito_kotlin.times(numInvocations)" />
+        <added pattern="android.annotation.SuppressLint(value)" />
       </blacklist>
     </blacklists>
   </component>
