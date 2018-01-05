@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Test.kt" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -15,6 +16,17 @@
       <mask>*.x</mask>
       <mask>*.xm</mask>
       <mask>*.xml</mask>
+      <mask>.test</mask>
+      <mask>.tes</mask>
+      <mask>.te</mask>
+      <mask>.t</mask>
+      <mask>.</mask>
+      <mask>T</mask>
+      <mask>Test</mask>
+      <mask>Test.</mask>
+      <mask>Test.k</mask>
+      <mask>Test.kt</mask>
+      <mask>*Test.kt</mask>
     </recentFileMasks>
   </component>
 </application>
