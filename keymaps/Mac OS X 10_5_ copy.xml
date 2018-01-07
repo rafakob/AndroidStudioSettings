@@ -57,6 +57,9 @@
     <keyboard-shortcut first-keystroke="meta alt t" />
     <keyboard-shortcut first-keystroke="meta k" />
   </action>
+  <action id="Testing.SelectInTree">
+    <keyboard-shortcut first-keystroke="meta numpad0" />
+  </action>
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
