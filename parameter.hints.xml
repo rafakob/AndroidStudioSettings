@@ -4,6 +4,7 @@
       <blacklist language="Kotlin">
         <added pattern="com.nhaarman.mockito_kotlin.times(numInvocations)" />
         <added pattern="android.annotation.SuppressLint(value)" />
+        <added pattern="retrofit2.http.POST(value)" />
       </blacklist>
     </blacklists>
   </component>
