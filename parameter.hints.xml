@@ -5,6 +5,7 @@
         <added pattern="com.nhaarman.mockito_kotlin.times(numInvocations)" />
         <added pattern="android.annotation.SuppressLint(value)" />
         <added pattern="retrofit2.http.POST(value)" />
+        <added pattern="com.mikepenz.fastadapter.commons.adapters.FastItemAdapter.notifyAdapterItemChanged(position)" />
       </blacklist>
     </blacklists>
   </component>
