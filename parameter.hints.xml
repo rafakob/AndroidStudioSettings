@@ -6,6 +6,8 @@
         <added pattern="android.annotation.SuppressLint(value)" />
         <added pattern="retrofit2.http.POST(value)" />
         <added pattern="com.mikepenz.fastadapter.commons.adapters.FastItemAdapter.notifyAdapterItemChanged(position)" />
+        <added pattern="com.rafakob.synomanager.entity.SystemUsage(cpuUsage,ramUsage,networkIncoming,networkOutcoming)" />
+        <added pattern="com.mikepenz.fastadapter.commons.adapters.FastItemAdapter.add(position,item)" />
       </blacklist>
     </blacklists>
   </component>
