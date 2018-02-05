@@ -12,7 +12,6 @@
         <added pattern="com.mikepenz.fastadapter.commons.adapters.FastItemAdapter.add(position,item)" />
       </blacklist>
     </blacklists>
-    <option id="SHOW_PROPERTY_HINT" value="true" />
     <option id="SHOW_FUNCTION_HINT" value="true" />
     <option id="SHOW_LAMBDA_IMPLICIT_PARAMETER_RECEIVER" value="false" />
     <option id="SHOW_LAMBDA_RETURN_EXPRESSION" value="false" />
