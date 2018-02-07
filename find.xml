@@ -1,16 +1,14 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.gradle" />
     <recentFileMasks>
-      <mask>*.x</mask>
-      <mask>*.xm</mask>
-      <mask>*.xml</mask>
-      <mask>.test</mask>
-      <mask>.tes</mask>
-      <mask>.te</mask>
-      <mask>.t</mask>
       <mask>.</mask>
       <mask>T</mask>
       <mask>Test</mask>
@@ -26,7 +24,6 @@
       <mask>*Presen.kt</mask>
       <mask>*Present.kt</mask>
       <mask>*Presenter.kt</mask>
-      <mask>*</mask>
       <mask>*.</mask>
       <mask>*.f</mask>
       <mask>*.fe</mask>
@@ -34,6 +31,14 @@
       <mask>*.feat</mask>
       <mask>*.featu</mask>
       <mask>*.feature</mask>
+      <mask>*</mask>
+      <mask>*.g</mask>
+      <mask>*.gr</mask>
+      <mask>*.gra</mask>
+      <mask>*.grad</mask>
+      <mask>*.gradl</mask>
+      <mask>*.gradlew</mask>
+      <mask>*.gradle</mask>
     </recentFileMasks>
   </component>
 </application>
