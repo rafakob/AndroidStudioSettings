@@ -3,8 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.feature" />
     <recentFileMasks>
-      <mask>Test</mask>
       <mask>Test.</mask>
       <mask>Test.k</mask>
       <mask>Test.kt</mask>
@@ -26,14 +26,15 @@
       <mask>*.gradlew</mask>
       <mask>*.gradle</mask>
       <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.kt</mask>
+      <mask>*.k</mask>
       <mask>*.f</mask>
       <mask>*.fe</mask>
       <mask>*.fea</mask>
       <mask>*.feat</mask>
+      <mask>*.featur</mask>
       <mask>*.feature</mask>
-      <mask>*.</mask>
-      <mask>*.k</mask>
-      <mask>*.kt</mask>
     </recentFileMasks>
   </component>
 </application>
