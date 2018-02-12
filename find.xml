@@ -6,10 +6,6 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>Test.kt</mask>
-      <mask>*P.kt</mask>
-      <mask>*Pr.kt</mask>
-      <mask>*Pre.kt</mask>
       <mask>*Pres.kt</mask>
       <mask>*Prese.kt</mask>
       <mask>*Presen.kt</mask>
@@ -36,6 +32,10 @@
       <mask>*Ts.kt</mask>
       <mask>*T.kt</mask>
       <mask>*Test.kt</mask>
+      <mask>*R.kt</mask>
+      <mask>*Ro.kt</mask>
+      <mask>*Rob.kt</mask>
+      <mask>*Robot.kt</mask>
     </recentFileMasks>
   </component>
 </application>
