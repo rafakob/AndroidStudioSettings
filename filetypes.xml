@@ -2,6 +2,9 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="epg_coming_up.json" type="PLAIN_TEXT" />
+      <mapping ext="au_pl" type="PLAIN_TEXT" />
+      <mapping ext="tpl_pl" type="PLAIN_TEXT" />
+      <mapping ext="cache_pl" type="PLAIN_TEXT" />
       <mapping pattern="RKStorage" type="SQL" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
