@@ -3,9 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Module*" />
     <recentFileMasks>
-      <mask>*Pres.kt</mask>
-      <mask>*Prese.kt</mask>
       <mask>*Presen.kt</mask>
       <mask>*Present.kt</mask>
       <mask>*Presenter.kt</mask>
@@ -17,7 +16,6 @@
       <mask>*.gradl</mask>
       <mask>*.gradlew</mask>
       <mask>*.gradle</mask>
-      <mask>*</mask>
       <mask>*.</mask>
       <mask>*.f</mask>
       <mask>*.fe</mask>
@@ -34,6 +32,9 @@
       <mask>*Ro.kt</mask>
       <mask>*Rob.kt</mask>
       <mask>*Robot.kt</mask>
+      <mask>*</mask>
+      <mask>*Module</mask>
+      <mask>*Module*</mask>
     </recentFileMasks>
   </component>
 </application>
