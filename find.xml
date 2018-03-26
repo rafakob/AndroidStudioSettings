@@ -22,8 +22,6 @@
       <mask>*.feat</mask>
       <mask>*.featur</mask>
       <mask>*.feature</mask>
-      <mask>*.k</mask>
-      <mask>*.kt</mask>
       <mask>*Ts.kt</mask>
       <mask>*T.kt</mask>
       <mask>*Test.kt</mask>
@@ -31,9 +29,11 @@
       <mask>*Ro.kt</mask>
       <mask>*Rob.kt</mask>
       <mask>*Robot.kt</mask>
-      <mask>*</mask>
       <mask>*Module</mask>
       <mask>*Module*</mask>
+      <mask>*</mask>
+      <mask>*.k</mask>
+      <mask>*.kt</mask>
     </recentFileMasks>
   </component>
 </application>
