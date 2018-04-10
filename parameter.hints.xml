@@ -10,6 +10,7 @@
         <added pattern="com.mikepenz.fastadapter.commons.adapters.FastItemAdapter.notifyAdapterItemChanged(position)" />
         <added pattern="com.rafakob.synomanager.entity.SystemUsage(cpuUsage,ramUsage,networkIncoming,networkOutcoming)" />
         <added pattern="com.mikepenz.fastadapter.commons.adapters.FastItemAdapter.add(position,item)" />
+        <added pattern="com.dazn.gherkin.annotation.Gherkin(feature,shouldStartActivity)" />
       </blacklist>
     </blacklists>
     <option id="SHOW_FUNCTION_HINT" value="true" />
