@@ -13,6 +13,8 @@
         <added pattern="com.dazn.gherkin.annotation.Gherkin(feature,shouldStartActivity)" />
         <added pattern="com.dazn.tvrecommendations.TvRecommendationsDependencies.inject(updateRecommendationsChannelRecommendationsChannelJob)" />
         <added pattern="com.dazn.tvrecommendations.TvRecommendationsDependencies.inject(updateRecommendationsChannelJob)" />
+        <added pattern="com.twofasapp.features.settings.SettingsPresenter.setFingerprintStatus(visible,enabled,subtitle)" />
+        <added pattern="com.twofasapp.features.settings.SettingsPresenter.setPinStatus(visible,enabled,subtitle)" />
       </blacklist>
     </blacklists>
     <option id="SHOW_FUNCTION_HINT" value="true" />
