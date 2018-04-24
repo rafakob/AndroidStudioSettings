@@ -18,6 +18,5 @@
       </blacklist>
     </blacklists>
     <option id="SHOW_FUNCTION_HINT" value="true" />
-    <option id="SHOW_LAMBDA_RETURN_EXPRESSION" value="false" />
   </component>
 </application>
